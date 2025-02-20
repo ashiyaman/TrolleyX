@@ -53,7 +53,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 For questions, feedback, or support:
-- Email: support@trolleyx.com
+- Email: ashiya1005@gmail.com
 - GitHub Issues: [TrolleyX Issues](https://github.com/yourusername/trolleyx/issues)
 
 ---
