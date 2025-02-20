@@ -24,7 +24,6 @@ window.addToCartHandler = async (productId) => {
 }
 
 window.removeFromCartHandler = async (productId) => {
-    console.log(productId)
     await store.dispatch(removeFromCart(productId))
     await store.dispatch(calculateTotal())
 }
